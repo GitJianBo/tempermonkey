@@ -4,10 +4,11 @@
 // @version      1.3
 // @description  点击按钮跳转到 https://jx.xmflv.cc/?url=(当前地址)，并支持拖动
 // @author       你的名字
-// @match        *://www.iqiyi.com/*
+// @match        *://*.iqiyi.com/*
+// @match        *://*.v.qq.com/*
 // @match        *://v.qq.com/*
 // @match        *://www.youku.com/*
-// @match        *://www.mgtv.com/*
+// @match        *://*.mgtv.com/*
 // @grant        none
 // ==/UserScript==
 
